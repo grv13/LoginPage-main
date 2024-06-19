@@ -71,5 +71,7 @@ Dependencies
 Flask
 Flask-Login
 Werkzeug
- C:\Users\pgour\OneDrive\Desktop\EaseworkAI\sql_Chatbot\logo.png
+
+
  
+![logo](https://github.com/grv13/LoginPage-main/assets/118931467/aaac9655-af61-4d10-a569-4cd8e382280d)
