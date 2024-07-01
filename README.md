@@ -28,6 +28,8 @@ Install the required packages:
 bash
 Copy code
 pip install -r requirements.txt
+to update :
+pip freeze > requirements.txt
 Set up the database:
 
 Ensure that the database is configured in the __init__.py file.
